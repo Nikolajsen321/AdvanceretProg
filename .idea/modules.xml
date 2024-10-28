@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvanceretProg.iml" filepath="$PROJECT_DIR$/AdvanceretProg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaereSogeTree/BinaereSogeTree.iml" filepath="$PROJECT_DIR$/BinaereSogeTree/BinaereSogeTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DictornaryBinaryTree/DictornaryBinaryTree.iml" filepath="$PROJECT_DIR$/DictornaryBinaryTree/DictornaryBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dijkstersalgoritme/Dijkstersalgoritme.iml" filepath="$PROJECT_DIR$/Dijkstersalgoritme/Dijkstersalgoritme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryDesignMonster/FactoryDesignMonster.iml" filepath="$PROJECT_DIR$/FactoryDesignMonster/FactoryDesignMonster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graf/Graf.iml" filepath="$PROJECT_DIR$/Graf/Graf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashingOpgaver/HashingOpgaver.iml" filepath="$PROJECT_DIR$/HashingOpgaver/HashingOpgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObservabelOgAdapter/ObservabelOgAdapter.iml" filepath="$PROJECT_DIR$/ObservabelOgAdapter/ObservabelOgAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave/Opgave.iml" filepath="$PROJECT_DIR$/Opgave/Opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repetionopgaver/Repetionopgaver.iml" filepath="$PROJECT_DIR$/Repetionopgaver/Repetionopgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsOpgaver/StreamsOpgaver.iml" filepath="$PROJECT_DIR$/StreamsOpgaver/StreamsOpgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" filepath="$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" />
+    </modules>
+  </component>
+</project>
